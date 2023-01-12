@@ -1,0 +1,58 @@
+[
+  {
+    "Id": "1",
+    "Pic": "./images/products.JPG",
+    "Type": "cat",
+    "Title": "Cat food 3 months+",
+    "Desc": "This cat food is the perfect food for kittens.",
+    "Price": "4"
+  },
+  {
+    "Id": "2",
+    "Pic": "./images/image1.jpeg",
+    "Type": "cat",
+    "Title": "Spinner Toy",
+    "Desc": "the perfect toy for your cat to chase",
+    "Price": "5"
+  },
+  {
+    "Id": "3",
+    "Pic": "./images/image1.jpeg",
+    "Type": "cat",
+    "Title": "Dreamies treats",
+    "Desc": "Dreamies are a cats best friend",
+    "Price": "1"
+  },
+  {
+    "Id": "4",
+    "Pic": "./images/image1.jpeg",
+    "Type": "cat",
+    "Title": "cat milk",
+    "Desc": "milk that your cat can drink without upsetting their digestive system",
+    "Price": "1"
+  },
+  {
+    "Id": "5",
+    "Pic": "./images/image2.jpeg",
+    "Type": "dog",
+    "Title": "Bonios",
+    "Desc": "the classic dog biscuit",
+    "Price": "3"
+  },
+  {
+    "Id": "6",
+    "Pic": "./images/image2.jpeg",
+    "Type": "dog",
+    "Title": "Denta Stick",
+    "Desc": "denta sticks to keep your pooches teeth clean",
+    "Price": "2"
+  },
+  {
+    "Id": "7",
+    "Pic": "./images/image2.jpeg",
+    "Type": "dog",
+    "Title": "Pedigree Chum",
+    "Desc": "dog food on a budget",
+    "Price": "3"
+  }
+]

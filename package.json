@@ -1,0 +1,27 @@
+{
+  "name": "wf1",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "@splidejs/vue-splide": "^0.6.12",
+    "@vueuse/components": "^9.6.0",
+    "@vueuse/core": "^9.6.0",
+    "axios": "^1.2.2",
+    "firebase": "^9.15.0",
+    "vue": "^3.2.41",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.1.4",
+    "@vitejs/plugin-vue": "^3.1.2",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "tailwindcss": "^3.2.4",
+    "vite": "^3.1.8"
+  }
+}

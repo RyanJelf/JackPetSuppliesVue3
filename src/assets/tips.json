@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "1",
+    "Title": "Always encourage good behaviour with rewards",
+    "Text": "Never shout at or punish your dog. Dogs are more likely to behave badly if they're scared or suffering. Be consistent in the way you, your family and your friends react to your dog and always make sure to give them treats when to reinforce good behaviour."
+  },
+  {
+    "Id": "2",
+    "Title": "Encourage regular exercise and play",
+    "Text": "Dogs need regular exercise and plenty of opportunities to walk and run. Aim to take them out at least once a day to keep them fit, active and stimulated (unless your vet recommends otherwise). Dogs are playful, sociable animals and can become distressed or bored without enough to do. Give them toys as well as regular opportunities to play with people or other friendly dogs."
+  },
+  {
+    "Id": "3",
+    "Title": "Should you groom your cat?",
+    "Text": "In a word, yes! Regular grooming allows you to spend quality time with your cat, as well as providing the opportunity to monitor their health. Grooming also removes dust, dead skin and loose hairs, prevents serious tangling and matting and can improve circulation. Looking at the condition of your cat's coat can be a good way of checking on their overall health and nutrition. Look for issues such as sore patches, wounds or matted fur, and if the condition of your cat's coat changes, visit your vet for a check-up."
+  },
+  {
+    "Id": "4",
+    "Title": "Check your plants!",
+    "Text": "Lilies are very popular plants due to their beautiful flowers, but unfortunately, they are highly toxic to cats. If your cat eats or licks a lily plant, they are likely to develop kidney damage which, left untreated, can lead to kidney failure and death. Contact your vet immediately if you think your cat has eaten or licked any part of a lily plant - never wait for symptoms to develop."
+  }
+]
