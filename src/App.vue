@@ -27,13 +27,30 @@ const handleSignOut = () => {
 };
 
 
+import {useDark, useToggle} from "@vueuse/core";
+
+const isDark = useDark();
+const toggleDark = useToggle(isDark);
+
+
+console.log(isDark.value);
 </script>
 
 <template>
-	<div class=" dark:bg-dark-bg">
+
+
+
+	<div class="bg-primary-bg dark:bg-dark-bg">
+
 		<div>
+
+
+			
 			<button @click="handleSignOut" v-if="isLoggedIn" class=" float-right mt-6 mr-5 my-2 py-1 px-10 text-stone-400 hover:text-primary-color xs:font-bold sm:font-normal bg-pale-spring-bud dark:bg-dark-button-bg dark:hover:text-pale-spring-bud sm:rounded-md">Sign Out</button>
+			<button class="ml-3 mt-1 my-1 py-1 px-1 text-stone-500 hover:text-primary-color xs:font-bold sm:font-normal bg-pale-spring-bud dark:bg-dark-button-bg dark:hover:text-pale-spring-bud sm:rounded-md" @click="toggleDark()"> {{ isDark ? "Light" : "Dark" }} Mode</button>
+
 			<Nav_menu />
+
 		</div>
 		<RouterView />
 		<Nav_footer />

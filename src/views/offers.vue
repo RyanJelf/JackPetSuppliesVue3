@@ -4,7 +4,7 @@
 	</div>
 	
 	<div class="flex justify-center mt-10">
-		<img src="../assets/images/discount.JPG" alt="discount">
+		<img src="../assets/images/discount.jpg" alt="discount">
 	</div>
 </template>
 

@@ -10,7 +10,7 @@
   "dependencies": {
     "@splidejs/vue-splide": "^0.6.12",
     "@vueuse/components": "^9.6.0",
-    "@vueuse/core": "^9.6.0",
+    "@vueuse/core": "^9.13.0",
     "axios": "^1.2.2",
     "firebase": "^9.15.0",
     "vue": "^3.2.41",
